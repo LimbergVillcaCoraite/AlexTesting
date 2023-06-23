@@ -1,0 +1,332 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: DIA_LBL_SELECT_TEST_DATA in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: HAND_WARN_TS_REQUIRES_PLUGIN_DYNAMIC_EXECUTION_TO_OPEN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: DIA_INFO_KSE_COMBINE_MULTI_DATASOURCE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_SHELL_DATA_ITERATION in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_LBL_TO_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_START_ROW_BIGGER_THAN_END_ROW in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: EDI_TITLE_TEST_CASE_BROWSER in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_MSG_CHOOSE_DATA_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_TABLE_EMPTY_COLUMN in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: DIA_WARN_MSG_EMPTY_COLUMN_NAME in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS missing message: PA_LBL_TOOLTIP_RETRY_IMMEDIATELY in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 51121
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: About_LBL_EDITION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+End checking and mark activated for GUI mode
+Your current licensed session is valid until: null
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername lenovo
+End appending additional signatures 86b52356-1106-4eba-8fac-a2d4a574f79d__lenovo
+End getting machine ID on Windows abed5084d9f50c417043e3946841e685
+Activating credentials...
+Fetching organizations...
+Retrievinng token using credentials...
+Fetching organizations using token...
+1 organization(s) fetched
+Warning: NLS unused message: DIA_LBL_LIST_OF_COL_NAMES in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Warning: NLS unused message: DIA_LBL_SELECT_A_COL in: com.kms.katalon.composer.components.impl.constants.composerComponentsImplMessages
+Start checking license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+All launchers terminated
+
+Fri Jun 23 10:53:18 BOT 2023
+Azure: Enterprise license for this feature is requested
+
+Latest plugins responses: []
+Katalon version: 8.6.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.6.5&appType=KSE&licenseType=FREE
+Warning: NLS missing message: BTN_UPLOAD in: com.kms.katalon.composer.integration.analytics.constants.composerIntegrationAnalyticsMessages
+Warning: NLS missing message: INSTRUCTION_FOR_CROSS_BROWSER_TESTING in: com.kms.katalon.composer.integration.analytics.constants.composerIntegrationAnalyticsMessages
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+jun 23, 2023 10:54:56 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 10:56:36 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+jun 23, 2023 10:56:49 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 10:56:56 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+
+Fri Jun 23 10:58:06 BOT 2023
+java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.kms.katalon.application.utils.EntityTrackingHelper$1.run(EntityTrackingHelper.java:23)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+
+Fri Jun 23 10:58:19 BOT 2023
+Azure: Enterprise license for this feature is requested
+
+jun 23, 2023 10:59:14 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 10:59:47 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 10:59:55 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:00:47 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:00:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+jun 23, 2023 11:04:00 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:04:03 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+jun 23, 2023 11:04:22 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:04:25 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:04:56 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:04:59 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+jun 23, 2023 11:07:17 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:07:20 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+Launcher status after execution process completed: Running
+Warning: NLS unused message: DIA_TITLE_INSTALL_INSTRUCTIONS in: com.kms.katalon.composer.mobile.constants.composerMobileMessages
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@7e9c18e2[http://micromarket.shopbarrio.online/home]
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Fri Jun 23 11:14:43 BOT 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Fri Jun 23 11:19:07 BOT 2023
+Azure: Enterprise license for this feature is requested
+
+jun 23, 2023 11:19:23 AM org.openqa.selenium.remote.DesiredCapabilities edge
+INFORMACIÓN: Using `new EdgeOptions()` is preferred to `DesiredCapabilities.edge()`
+jun 23, 2023 11:19:28 AM org.openqa.selenium.remote.DesiredCapabilities edge
+INFORMACIÓN: Using `new EdgeOptions()` is preferred to `DesiredCapabilities.edge()`
+jun 23, 2023 11:19:40 AM org.openqa.selenium.remote.DesiredCapabilities edge
+INFORMACIÓN: Using `new EdgeOptions()` is preferred to `DesiredCapabilities.edge()`
+
+Fri Jun 23 11:19:44 BOT 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+jun 23, 2023 11:23:22 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+jun 23, 2023 11:23:25 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+jun 23, 2023 11:23:33 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+jun 23, 2023 11:23:48 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:23:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:24:29 AM org.openqa.selenium.os.OsProcess destroy
+INFORMACIÓN: Unable to drain process streams. Ignoring but the exception being swallowed follows.
+org.apache.commons.exec.ExecuteException: The stop timeout of 2000 ms was exceeded (Exit value: -559038737)
+	at org.apache.commons.exec.PumpStreamHandler.stopThread(PumpStreamHandler.java:295)
+	at org.apache.commons.exec.PumpStreamHandler.stop(PumpStreamHandler.java:181)
+	at org.openqa.selenium.os.OsProcess.destroy(OsProcess.java:136)
+	at org.openqa.selenium.os.CommandLine.destroy(CommandLine.java:153)
+	at org.openqa.selenium.remote.service.DriverService.stop(DriverService.java:232)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:95)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:452)
+	at com.kms.katalon.objectspy.core.InspectSession.dispose(InspectSession.java:653)
+	at com.kms.katalon.objectspy.core.InspectSession.runSeleniumWebDriver(InspectSession.java:299)
+	at com.kms.katalon.objectspy.core.InspectSession.run(InspectSession.java:191)
+	at com.kms.katalon.composer.webui.recorder.core.RecordSession.run(RecordSession.java:94)
+	at java.lang.Thread.run(Thread.java:750)
+
+jun 23, 2023 11:24:29 AM org.openqa.selenium.os.OsProcess destroy
+GRAVE: Unable to kill process java.lang.ProcessImpl@3ab96afd
+jun 23, 2023 11:24:35 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+jun 23, 2023 11:24:45 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+jun 23, 2023 11:24:52 AM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+jun 23, 2023 11:25:10 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:25:30 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:25:34 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:26:39 AM org.openqa.selenium.os.OsProcess destroy
+INFORMACIÓN: Unable to drain process streams. Ignoring but the exception being swallowed follows.
+org.apache.commons.exec.ExecuteException: The stop timeout of 2000 ms was exceeded (Exit value: -559038737)
+	at org.apache.commons.exec.PumpStreamHandler.stopThread(PumpStreamHandler.java:295)
+	at org.apache.commons.exec.PumpStreamHandler.stop(PumpStreamHandler.java:181)
+	at org.openqa.selenium.os.OsProcess.destroy(OsProcess.java:136)
+	at org.openqa.selenium.os.CommandLine.destroy(CommandLine.java:153)
+	at org.openqa.selenium.remote.service.DriverService.stop(DriverService.java:232)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:95)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:452)
+	at com.kms.katalon.objectspy.core.InspectSession.dispose(InspectSession.java:653)
+	at com.kms.katalon.objectspy.core.InspectSession.stop(InspectSession.java:647)
+	at com.kms.katalon.composer.webui.recorder.dialog.RecorderDialog.stopRecordSession(RecorderDialog.java:1762)
+	at com.kms.katalon.composer.webui.recorder.dialog.RecorderDialog.startBrowser(RecorderDialog.java:431)
+	at com.kms.katalon.composer.webui.recorder.dialog.RecorderDialog.startBrowser(RecorderDialog.java:411)
+	at com.kms.katalon.composer.webui.recorder.dialog.RecorderDialog.access$19(RecorderDialog.java:410)
+	at com.kms.katalon.composer.webui.recorder.dialog.RecorderDialog$21.widgetSelected(RecorderDialog.java:1539)
+	at com.kms.katalon.composer.components.impl.control.DropdownGroup$1.widgetSelected(DropdownGroup.java:70)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4213)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4030)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3630)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at com.kms.katalon.composer.webui.recorder.handler.RecordHandler.execute(RecordHandler.java:149)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4213)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4030)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3630)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at com.kms.katalon.core.application.WorkbenchApplicationStarter.start(WorkbenchApplicationStarter.java:23)
+	at com.kms.katalon.application.Application.runGUI(Application.java:191)
+	at com.kms.katalon.application.Application.start(Application.java:102)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+jun 23, 2023 11:26:39 AM org.openqa.selenium.os.OsProcess destroy
+GRAVE: Unable to kill process java.lang.ProcessImpl@6193f40e
+jun 23, 2023 11:26:39 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:26:48 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:27:19 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:27:21 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:27:52 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:27:55 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+jun 23, 2023 11:28:48 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:28:51 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Fri Jun 23 11:31:26 BOT 2023
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+jun 23, 2023 11:34:19 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:34:22 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+jun 23, 2023 11:36:13 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:36:18 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+jun 23, 2023 11:37:01 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+jun 23, 2023 11:37:03 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+INFO: KATALON_JAVA_HOME: null
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task
